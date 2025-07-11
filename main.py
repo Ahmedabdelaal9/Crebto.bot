@@ -37,4 +37,3 @@ else:
 # عرض بيانات تفصيلية
 with st.expander("عرض بيانات المؤشرات"):
     st.dataframe(df.tail(10))
-create main.py
