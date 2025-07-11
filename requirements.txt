@@ -2,4 +2,3 @@ streamlit
 ccxt
 pandas
 ta
-add requirements
